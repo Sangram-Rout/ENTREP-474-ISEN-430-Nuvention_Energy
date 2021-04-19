@@ -5,3 +5,5 @@ BIPV (building-integrated photovoltaics) has the potential to revolutionize sola
 Here is a link to our presentation
 
 https://www.farley.northwestern.edu/news-events/news/articles/2020/nuvention-energy-winter2020-recap.html
+
+Also included is the technological breakthrough we intend to exploit.
